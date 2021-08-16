@@ -1,7 +1,7 @@
 # Patrols
 [return to index](/README.md) 
 
-This section covers the trainings in Plasma Security Division.
+This section covers the patrols in Plasma Security Division.
  
 # Your first patrol
 Make sure to know the [abbreviations](/Abbreviations.md) as many of them will be used and you are expected to know them.
