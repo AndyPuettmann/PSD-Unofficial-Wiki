@@ -24,13 +24,13 @@ Knowing the map and layout is helpful, but usually not required as you will be c
 # Activities
 A training consists of one or more of the following activities
 
-## TDM - Team Death Match
+### TDM - Team Death Match
 (Description)
 
-## Obbies
+### Obbies
 (Description)
 
-## Story
+### Story
 Occasionally there are story trainings that involve a role-play plot set up by the host.
 They are sadly quite rare but really interesting, so attend if you have a chance!
 
