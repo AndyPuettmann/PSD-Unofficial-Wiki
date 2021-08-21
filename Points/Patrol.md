@@ -27,14 +27,14 @@ So make sure you know the map and facility guides.
 # Activities
 A patrol usually consists of only three stages
 
-## Phase 1: Opening STS
+### Phase 1: Opening STS
 Usually the discord announcement contains a place to gather and STS.
 
-## Phase 2: Patrol
+### Phase 2: Patrol
 You keep the plant safe in this phase.
 Host often starts at least one raid while the patrol happens.
 
-## Phase 3: Closing STS
+### Phase 3: Closing STS
 Watch the radio and team chat for the closing STS. You are ordered to a final meetup before you are being dismissed.
 
 # FAQ
