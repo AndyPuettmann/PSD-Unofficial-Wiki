@@ -23,13 +23,13 @@ You cannot just attack someone as you like.
 You need to issue warnings before.
 
 The chain of actions is usually like this:
-* Misbehaviour 1 -> Warning 1 (Handbook says: Explain briefly why they get warned)
-* Misbehaviour 2 -> Warning 2
-* Misbehaviour 3 -> Warning 3 (Handbook says: Mention it is their final warning)
-* Misbehaviour 4 -> Warning 4 (Kill the person, write the warning)
-* Misbehaviour 5 -> Warning 5 (Kill the person, write the warning)
-* Misbehaviour 6 -> Warning 6 (Kill the person, write the warning)
-* Misbehaviour 7 -> Warning 7 (Kill the person, write the warning) -> At Warning 7+ you are allowed to call for a T2+ to issue a KOS on that person.
+* **Misbehaviour 1 -> Warning 1** (Handbook says: Explain briefly why they get warned)
+* **Misbehaviour 2 -> Warning 2**
+* **Misbehaviour 3 -> Warning 3** (Handbook says: Mention it is their final warning)
+* **Misbehaviour 4 -> Warning 4** (Kill the person, write the warning)
+* **Misbehaviour 5 -> Warning 5** (Kill the person, write the warning)
+* **Misbehaviour 6 -> Warning 6** (Kill the person, write the warning)
+* **Misbehaviour 7 -> Warning 7** (Kill the person, write the warning) -> At Warning 7+ you are allowed to call for a T2+ to issue a KOS on that person.
 
 Exempt from this are:
 * Mutants
